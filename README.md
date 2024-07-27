@@ -1,4 +1,4 @@
-[![g (1)](https://github.com/user-attachments/assets/97065b65-2331-491b-b573-2c4676d5457b)](https://github.com/Slygriyrsk)
+[![g (1)](https://github.com/user-attachments/assets/ce1fa637-9f59-4bb7-b7b9-5406fcea37e8)](https://github.com/Slygriyrsk)
 <h1 align="center">Hi 👋, I'm Saharsh Kumar Sharma</h1>
 <h3 align="center">Junior Developer | Passionate About Data Structures and Algorithms | Building the Future with Code @🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20240115/original/pngtree-artificial-intelligence-big-data-code-programmer-festival-three-dimensional-wind-beating-png-image_14120004.png">
