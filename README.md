@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Saharsh Kumar Sharma</h1>
 <h3 align="center">Junior Developer | Passionate About Data Structures and Algorithms | Building the Future with Code @🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20240115/original/pngtree-artificial-intelligence-big-data-code-programmer-festival-three-dimensional-wind-beating-png-image_14120004.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/530d612a-804b-4359-98c9-c90c357af1f2" alt="me" width="400"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slygriyrsk&label=Profile%20views&color=0e75b6&style=flat" alt="slygriyrsk" /> </p>
