@@ -136,12 +136,12 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<img src="https://raw.githubusercontent.com/Slygriyrsk/Slygriyrsk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/YourGitHubUsername/Slygriyrsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
-<h2 align="center">📊 Wakatime Stats</h2>
+<h2 align="center">📊 WakaTime Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Slygriyrsk&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=developer_24&layout=compact&theme=radical" alt="WakaTime Stats" />
 </p>
 
 <h2 align="center">🏆 GitHub Metrics</h2>
