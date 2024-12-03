@@ -123,17 +123,6 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </p>
 
-<h2 align="center">📌 Pin Your Best Repos</h2>
-
-<p align="center">
-  <a href="https://github.com/Slygriyrsk/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slygriyrsk&repo=repo1&theme=radical" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/Slygriyrsk/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slygriyrsk&repo=repo2&theme=radical" alt="Repo 2" />
-  </a>
-</p>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/Slygriyrsk/Slygriyrsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -147,7 +136,7 @@
 <h2 align="center">🏆 GitHub Metrics</h2>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Slygriyrsk?template=classic&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Slygriyrsk/Slygriyrsk/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 
