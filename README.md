@@ -136,7 +136,7 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<img src="https://raw.githubusercontent.com/YourGitHubUsername/Slygriyrsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Slygriyrsk/Slygriyrsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <h2 align="center">📊 WakaTime Stats</h2>
 
